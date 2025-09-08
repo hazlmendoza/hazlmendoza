@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @hazlmendoza, a newbie programmer.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning C# and other programming language.
-- 📫 Reach me on hazelannemendoza321@gmail.com.
+# Welcome to My GitHub Profile
 
+Hello! I'm Hazel, a passionate Frontend Developer. I love creating beautiful, user-friendly web applications using modern technologies.
 
-<!---
-hazlmendoza/hazlmendoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- 🌱 Currently learning: Backend Development 
+- 💼 Experience with: HTML, CSS, JavaScript, Tailwind, React, Next.js
